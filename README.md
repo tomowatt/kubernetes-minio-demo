@@ -1,0 +1,1 @@
+kubernetes-minio-demo
